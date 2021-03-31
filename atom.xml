@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>i猩人 - 一个程序员的故事，专注移动互联网</title>
+  
+  
+  <link href="https://blog.ixin.run/atom.xml" rel="self"/>
+  
+  <link href="https://blog.ixin.run/"/>
+  <updated>2021-03-31T16:22:55.123Z</updated>
+  <id>https://blog.ixin.run/</id>
+  
+  <author>
+    <name>i猩人</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DO AS ONE WISHES</title>
+    <link href="https://blog.ixin.run/posts/0/"/>
+    <id>https://blog.ixin.run/posts/0/</id>
+    <published>2098-12-31T16:00:00.000Z</published>
+    <updated>2021-03-31T16:22:55.123Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;一个合格的程序员都有自己的风格：执着、追求、向上、完美主义、无所畏惧、高傲但不自大、也有风骚也有爱、狼性编程并不只是为了工作…终极梦想就是随心所欲，凤凰涅槃。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;在其位谋其职，在我还没有想到下条路的时候或者现阶段</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>浅入深出了解Android传感器</title>
+    <link href="https://blog.ixin.run/posts/1617159391/"/>
+    <id>https://blog.ixin.run/posts/1617159391/</id>
+    <published>2021-03-31T02:55:54.000Z</published>
+    <updated>2021-03-31T16:22:55.145Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;提到手机上的传感器大家应该都不陌生，比如说方向传感器、陀螺仪、重力传感器、光线传感器等。现在的手机基本集成少说有十几种传感器，面向将来的人工智能，这块知识也是我们必备的。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="传感器" scheme="https://blog.ixin.run/tags/%E4%BC%A0%E6%84%9F%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java类加载机制</title>
+    <link href="https://blog.ixin.run/posts/1616149094/"/>
+    <id>https://blog.ixin.run/posts/1616149094/</id>
+    <published>2021-03-19T10:18:14.000Z</published>
+    <updated>2021-03-31T16:22:55.154Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;我们知道Class文件中描述的各种信息最终都需要加载到虚拟机中之后才能运行和使用。而虚拟机如何加载这些Class文件？Class文件中的信息进入到虚拟机后会发生什么变化？本文就带你认识一下Java的类加载机制，相信你看过本文之后一切都清楚明了了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Java" scheme="https://blog.ixin.run/categories/Java/"/>
+    
+    
+    <category term="类加载机制" scheme="https://blog.ixin.run/tags/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浅谈Android编译打包流程</title>
+    <link href="https://blog.ixin.run/posts/1615946471/"/>
+    <id>https://blog.ixin.run/posts/1615946471/</id>
+    <published>2021-03-17T02:00:44.000Z</published>
+    <updated>2021-03-31T16:22:55.145Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;作为移动开发的我们平时关注更多的关注业务上的实现和技术的提升，而技术的提升也是为了更好的维护好我们的业务。但是我们很少关注有关apk的一些问题：一个apk的内部构造有哪些？一个apk是怎么从我们的java代码或者kotlin工程编译出来的？以及apk编译需要哪些步骤？如果把apk的编译过程研究透了，那将会继续拓宽我们的技术栈。本文就浅谈一下Android项目编译成apk的内部流程。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="系统" scheme="https://blog.ixin.run/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谈谈对Dex文件的认识</title>
+    <link href="https://blog.ixin.run/posts/1615903557/"/>
+    <id>https://blog.ixin.run/posts/1615903557/</id>
+    <published>2021-03-16T14:05:57.000Z</published>
+    <updated>2021-03-31T16:22:55.146Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;针对dex文件，做android开发的应该都见过，没见过也听说过，至少听说过65536吧，本篇文章就带大家认识以下dex。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="系统" scheme="https://blog.ixin.run/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jvm、Dalvik和Art的区别你知道吗</title>
+    <link href="https://blog.ixin.run/posts/1615783515/"/>
+    <id>https://blog.ixin.run/posts/1615783515/</id>
+    <published>2021-03-15T04:45:15.000Z</published>
+    <updated>2021-03-31T16:22:55.142Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;早前android给人的印象是卡，慢，无；但是从6.0依赖的手机似乎人们不再提android的这些诟病了，无非来一句“不高端”。知道什么原因吗？有同学说，android一个劲的提升内存，和CPU的升级，但这只是其中的表象，为什么会提升内存呢？认识一下Jvm、Dalvik和Art，你将一切都明白了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="系统" scheme="https://blog.ixin.run/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HttpURLConnection使用细节总结</title>
+    <link href="https://blog.ixin.run/posts/1615708883/"/>
+    <id>https://blog.ixin.run/posts/1615708883/</id>
+    <published>2021-03-14T08:01:05.000Z</published>
+    <updated>2021-03-31T16:22:55.142Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Android上网络请求框架有很多，有HttpURLConnection、HttpClient、android-async-http、volley、(Retrofit+Okhttp)等。&lt;/p&gt;
+&lt;p&gt;android sdk早期默认支持HttpClient和HttpURLConnection，但在android 6.0的时候就完全抛弃了HttpClient，原因是HttpClient相对HttpURLConnection开发更加繁杂，糟糕的api和糟糕的文档等诸多诟病。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="网络编程" scheme="https://blog.ixin.run/tags/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android多渠道打包</title>
+    <link href="https://blog.ixin.run/posts/1615692625/"/>
+    <id>https://blog.ixin.run/posts/1615692625/</id>
+    <published>2021-03-14T03:30:13.000Z</published>
+    <updated>2021-03-31T16:22:55.125Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Android的签名打包是每个android开发者都会的基本技能，但是针对多渠道打包需要当前app业务支撑，有些app是无需上线的到各个应用市场的，或者说公司不需要这些分发做定制化，这就导致可能接触不到多渠道打包，本文就记录一下Android上多渠道打包的那些事。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="多渠道打包" scheme="https://blog.ixin.run/tags/%E5%A4%9A%E6%B8%A0%E9%81%93%E6%89%93%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTTPS协议原理必知必会</title>
+    <link href="https://blog.ixin.run/posts/1615560323/"/>
+    <id>https://blog.ixin.run/posts/1615560323/</id>
+    <published>2021-03-12T14:45:07.000Z</published>
+    <updated>2021-03-31T16:22:55.162Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;前边的一篇文章&lt;a href=&quot;./posts/1615211970&quot;&gt;《HTTP协议原理知多少》&lt;/a&gt;我把有关Http的知识总结了一下，Http是一个无状态，透明的网络协议，然而在当下大网络环境下，安全这块是很重要的，所以Http也被无情的拍着沙滩上了，当然前人栽树后人乘凉，前人打地基后人盖大楼，一切都离不开基础，本篇文章我就总结一下在Http基础上添加了安全模块的Https的相关知识点，细看必有收获。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="计算机网络" scheme="https://blog.ixin.run/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="HTTP" scheme="https://blog.ixin.run/tags/HTTP/"/>
+    
+    <category term="HTTPS" scheme="https://blog.ixin.run/tags/HTTPS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Http协议原理知多少</title>
+    <link href="https://blog.ixin.run/posts/1615211970/"/>
+    <id>https://blog.ixin.run/posts/1615211970/</id>
+    <published>2021-03-08T13:59:05.000Z</published>
+    <updated>2021-03-31T16:22:55.162Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;推荐一本书《图解HTTP》，我看了有好几遍，尤其是书中的图片很形象。无论是前端、移动端抑或是大后端都离不开Http协议，所以弄清楚Http相关知识和原理着实重要，本文就挑重点式总结一下Http知识。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="计算机网络" scheme="https://blog.ixin.run/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="HTTP" scheme="https://blog.ixin.run/tags/HTTP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你了解android的进程间通信吗</title>
+    <link href="https://blog.ixin.run/posts/1615119064/"/>
+    <id>https://blog.ixin.run/posts/1615119064/</id>
+    <published>2021-03-07T12:10:40.000Z</published>
+    <updated>2021-03-31T16:22:55.144Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;你了解android的进程间通信吗？提到进程间通信，这是android开发中很重要的一环，也是面试高频知识点，本文总结一下进程间通信的几种方式，把这块知识系统起来。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
+    
+    <category term="进程间通信" scheme="https://blog.ixin.run/tags/%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android开发数据持久化有哪些形式</title>
+    <link href="https://blog.ixin.run/posts/1615050026/"/>
+    <id>https://blog.ixin.run/posts/1615050026/</id>
+    <published>2021-03-06T17:00:12.000Z</published>
+    <updated>2021-03-31T16:22:55.134Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Android数据持久化的形式最常用的有以下五种：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;使用SharedPreferences存储数据&lt;/li&gt;
+&lt;li&gt;文件存储数据&lt;/li&gt;
+&lt;li&gt;SQLite数据库存储数据&lt;/li&gt;
+&lt;li&gt;使用ContentProvider存储数据&lt;/li&gt;
+&lt;li&gt;网络存储数据&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
+    
+    <category term="数据持久化" scheme="https://blog.ixin.run/tags/%E6%95%B0%E6%8D%AE%E6%8C%81%E4%B9%85%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android开发Style和Theme知识面总结</title>
+    <link href="https://blog.ixin.run/posts/1614958762/"/>
+    <id>https://blog.ixin.run/posts/1614958762/</id>
+    <published>2021-03-05T15:39:22.000Z</published>
+    <updated>2021-03-31T16:22:55.130Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这块知识大部分同学都知道，但是同样比较碎，比如说定义一个Style，到底该用于主题还是用于某个view？再比如说Style的继承应该怎么用？等等…本文我将尽可能全面的将这块知识点总结一下。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
+    
+    <category term="自定义View" scheme="https://blog.ixin.run/tags/%E8%87%AA%E5%AE%9A%E4%B9%89View/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android开发之玩转Android属性动画</title>
+    <link href="https://blog.ixin.run/posts/1614527870/"/>
+    <id>https://blog.ixin.run/posts/1614527870/</id>
+    <published>2021-02-28T15:57:29.000Z</published>
+    <updated>2021-03-31T16:22:55.131Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;前两篇重点讲述了Android开发过程中补间动画和帧动画知识点，本篇文章我们重点总结一下属性动画的使用和原理。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
+    
+    <category term="动画" scheme="https://blog.ixin.run/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android开发之玩转Android帧动画</title>
+    <link href="https://blog.ixin.run/posts/1614486338/"/>
+    <id>https://blog.ixin.run/posts/1614486338/</id>
+    <published>2021-02-28T04:25:24.000Z</published>
+    <updated>2021-03-31T16:22:55.131Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;帧动画有着极其广泛的应用，也非常容易理解，其实就是简单的由N张静态图片收集起来，然后我们通过控制依次显示这些图片，因为人眼&amp;quot;视觉残留&amp;quot;的原因，会让我们造成动画的&amp;quot;错觉&amp;quot;，跟放电影的原理一样！Android中展示这种形式一般有两种方式，一种用AnimationDrawable实现，另外一种直接引用GIF实现。本文就给阐述一下如何通过AnimationDrawable实现帧动画。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
+    
+    <category term="动画" scheme="https://blog.ixin.run/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android开发之玩转Android补间动画</title>
+    <link href="https://blog.ixin.run/posts/1614434754/"/>
+    <id>https://blog.ixin.run/posts/1614434754/</id>
+    <published>2021-02-27T14:05:15.000Z</published>
+    <updated>2021-03-31T16:22:55.132Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;提起动画，无论是哪种语言哪种系统框架，比如说android、iOS、H5、Flash等，动画在其之中都扮演着举足轻重的角色。Android系统中最常用的动画方式有三种：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;补间动画（Tween Animation）&lt;/li&gt;
+&lt;li&gt;帧动画（Frame Animation）&lt;/li&gt;
+&lt;li&gt;属性动画（Property Animation）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本文就总结一下补间动画的相关玩法。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
+    
+    <category term="动画" scheme="https://blog.ixin.run/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你知道ImageView的ScaleType怎么用吗</title>
+    <link href="https://blog.ixin.run/posts/1614424714/"/>
+    <id>https://blog.ixin.run/posts/1614424714/</id>
+    <published>2021-02-27T11:18:34.000Z</published>
+    <updated>2021-03-31T16:22:55.144Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;如果你像我一样很容易健忘，那么你也应该像我一样有一个好习惯——“好记性不如赖笔头”。Android开发中ImageView的ScaleType属性就有很多选择，说实话我是真的记不住这么多类型的用法，所以只有用笔记下来咯，用的时候直接翻看一下，2分钟搞定。你知道ImageView的ScaleType怎么用吗？&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
+    
+    <category term="ImageView" scheme="https://blog.ixin.run/tags/ImageView/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>极度干货——GitHub受欢迎的Android UI Library整理</title>
+    <link href="https://blog.ixin.run/posts/1614235078/"/>
+    <id>https://blog.ixin.run/posts/1614235078/</id>
+    <published>2021-02-25T06:37:58.000Z</published>
+    <updated>2021-03-31T16:22:55.141Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Android开发者福音，极度干货，以下是安卓UI相关开源项目库集合整理，开发必备，欢迎收藏，点赞。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>认识LRU经典算法</title>
+    <link href="https://blog.ixin.run/posts/1614164385/"/>
+    <id>https://blog.ixin.run/posts/1614164385/</id>
+    <published>2021-02-24T10:59:45.000Z</published>
+    <updated>2021-03-31T16:22:55.160Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;LRU算法是不是听着很耳熟，当然面试经常问到。本文带你了解LRU算法相关经典的实现方式以及为什么采用，至少在面试的时候不至于一问三不知而栽跟头，接下来就看看LRU到底是个啥东西吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="算法" scheme="https://blog.ixin.run/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="算法" scheme="https://blog.ixin.run/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="LRU" scheme="https://blog.ixin.run/tags/LRU/"/>
+    
+    <category term="双链表" scheme="https://blog.ixin.run/tags/%E5%8F%8C%E9%93%BE%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Stream流式编程实现原理</title>
+    <link href="https://blog.ixin.run/posts/1613581746/"/>
+    <id>https://blog.ixin.run/posts/1613581746/</id>
+    <published>2021-02-17T17:09:06.000Z</published>
+    <updated>2021-03-31T16:22:55.155Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;上一篇《&lt;a href=&quot;https://blog.ixin.run/posts/1613575203&quot; target=&quot;_blank&quot;&gt;Stream流式编程知识总结&lt;/a&gt;》我们主要针对Stream流式编程的具体使用方法进行了深入的探讨，但是如果再来一个一问三连&lt;code&gt;what?-why?-then?&lt;/code&gt;是不是又开始懵比了，哈哈，本文就运用一问三连的形式来进行争取不那么麻烦的解释Stream流式编程的实现原理。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Java" scheme="https://blog.ixin.run/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://blog.ixin.run/tags/Java/"/>
+    
+    <category term="流式编程" scheme="https://blog.ixin.run/tags/%E6%B5%81%E5%BC%8F%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="Stream" scheme="https://blog.ixin.run/tags/Stream/"/>
+    
+  </entry>
+  
+</feed>
