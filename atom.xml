@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>i猩人 - 一个程序员的故事，专注移动互联网</title>
+  <title>乂星人 - 一个程序员的故事，专注移动互联网</title>
   
   
   <link href="https://blog.ixin.run/atom.xml" rel="self"/>
   
   <link href="https://blog.ixin.run/"/>
-  <updated>2021-03-31T16:22:55.123Z</updated>
+  <updated>2021-12-28T14:26:07.606Z</updated>
   <id>https://blog.ixin.run/</id>
   
   <author>
-    <name>i猩人</name>
+    <name>乂星人</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="https://blog.ixin.run/posts/0/"/>
     <id>https://blog.ixin.run/posts/0/</id>
     <published>2098-12-31T16:00:00.000Z</published>
-    <updated>2021-03-31T16:22:55.123Z</updated>
+    <updated>2021-12-28T14:26:07.606Z</updated>
     
     
       
@@ -41,20 +41,90 @@
   </entry>
   
   <entry>
+    <title>轻松玩转Flutter混合开发</title>
+    <link href="https://blog.ixin.run/posts/1631175663/"/>
+    <id>https://blog.ixin.run/posts/1631175663/</id>
+    <published>2021-09-09T08:20:27.000Z</published>
+    <updated>2021-12-28T14:26:07.607Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Flutter自推出以来备受欢迎，国内最先引入使用的是闲鱼团队的闲鱼App。好多同学都知道Flutter是一套跨平台UI框架，最常见的运用则是一套代码同时可以编译出Android、iOS、H5等多种形式，但是实际开发中一般只有新项目我们才会用flutter进行直接编译打包，针对老项目谁都也不愿意完全推翻再用flutter重新写一遍，更多的是采用混合开发模式，即将flutter的产物嵌入到Android或者iOS项目中一同编译。本文我就总结一下Flutter混合开发的那些事。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Flutter" scheme="https://blog.ixin.run/categories/Flutter/"/>
+    
+    
+    <category term="flutter" scheme="https://blog.ixin.run/tags/flutter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为什么用OkHttp</title>
+    <link href="https://blog.ixin.run/posts/1629967595/"/>
+    <id>https://blog.ixin.run/posts/1629967595/</id>
+    <published>2021-08-26T08:44:38.000Z</published>
+    <updated>2021-12-28T14:26:07.606Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;提起Android上常用的网络框架，太多太多，从早前的HttpClient，到被Google认定的HttpUrlConnection，还有万剑齐发的Volley，但是伴隨后来的大Boss——OkHttp的出现，似乎前边的曾经不可一世的网络框架都沉寂了，为什么OkHttp这么牛，牛在哪里呢，本文就着重说一下。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="网络三件套" scheme="https://blog.ixin.run/tags/%E7%BD%91%E7%BB%9C%E4%B8%89%E4%BB%B6%E5%A5%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常见算法解题思路</title>
+    <link href="https://blog.ixin.run/posts/1621934400/"/>
+    <id>https://blog.ixin.run/posts/1621934400/</id>
+    <published>2021-05-25T09:19:41.000Z</published>
+    <updated>2021-12-28T14:26:07.607Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;个人总结的一些算法，及解题思路。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="算法" scheme="https://blog.ixin.run/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="算法" scheme="https://blog.ixin.run/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android注解处理器APT技术探究</title>
+    <link href="https://blog.ixin.run/posts/1619764951/"/>
+    <id>https://blog.ixin.run/posts/1619764951/</id>
+    <published>2021-04-30T06:42:31.000Z</published>
+    <updated>2021-12-28T14:26:07.606Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;说起注解处理器，Android程序员都比较兴奋，因为在开发过程中我们常用的一些明星框架，例如&lt;code&gt;ButterKnife&lt;/code&gt;、&lt;code&gt;EventBus&lt;/code&gt;、&lt;code&gt;Dagger&lt;/code&gt;以及阿里的&lt;code&gt;ARouter&lt;/code&gt;都采用是注解处理器技术。简单注解，简单的api，超高的性能等诸多优点，本文就带你从整体出发探讨以下APT技术是怎么玩的。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+    <category term="APT" scheme="https://blog.ixin.run/tags/APT/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Android组件化可行性方案探讨和思考</title>
     <link href="https://blog.ixin.run/posts/1618992460/"/>
     <id>https://blog.ixin.run/posts/1618992460/</id>
     <published>2021-04-21T08:06:46.000Z</published>
-    <updated>2021-04-21T15:38:40.502Z</updated>
+    <updated>2021-12-28T14:26:07.607Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;为什么要组件化&quot;&gt;为什么要组件化&lt;a title=&quot;#为什么要组件化&quot;</summary>
-        
-      
+    <summary type="html">&lt;p&gt;其实组件化我之前已经谈过了，本文主要探讨一下组件化搭建的有哪些形式，这也算是一种学习过程。&lt;/p&gt;</summary>
     
     
     
@@ -348,96 +418,6 @@
     <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
     
     <category term="动画" scheme="https://blog.ixin.run/tags/%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android开发之玩转Android补间动画</title>
-    <link href="https://blog.ixin.run/posts/1614434754/"/>
-    <id>https://blog.ixin.run/posts/1614434754/</id>
-    <published>2021-02-27T14:05:15.000Z</published>
-    <updated>2021-03-31T16:22:55.132Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;提起动画，无论是哪种语言哪种系统框架，比如说android、iOS、H5、Flash等，动画在其之中都扮演着举足轻重的角色。Android系统中最常用的动画方式有三种：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;补间动画（Tween Animation）&lt;/li&gt;
-&lt;li&gt;帧动画（Frame Animation）&lt;/li&gt;
-&lt;li&gt;属性动画（Property Animation）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;本文就总结一下补间动画的相关玩法。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
-    
-    <category term="动画" scheme="https://blog.ixin.run/tags/%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>你知道ImageView的ScaleType怎么用吗</title>
-    <link href="https://blog.ixin.run/posts/1614424714/"/>
-    <id>https://blog.ixin.run/posts/1614424714/</id>
-    <published>2021-02-27T11:18:34.000Z</published>
-    <updated>2021-03-31T16:22:55.144Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;如果你像我一样很容易健忘，那么你也应该像我一样有一个好习惯——“好记性不如赖笔头”。Android开发中ImageView的ScaleType属性就有很多选择，说实话我是真的记不住这么多类型的用法，所以只有用笔记下来咯，用的时候直接翻看一下，2分钟搞定。你知道ImageView的ScaleType怎么用吗？&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
-    
-    <category term="ImageView" scheme="https://blog.ixin.run/tags/ImageView/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>极度干货——GitHub受欢迎的Android UI Library整理</title>
-    <link href="https://blog.ixin.run/posts/1614235078/"/>
-    <id>https://blog.ixin.run/posts/1614235078/</id>
-    <published>2021-02-25T06:37:58.000Z</published>
-    <updated>2021-03-31T16:22:55.141Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Android开发者福音，极度干货，以下是安卓UI相关开源项目库集合整理，开发必备，欢迎收藏，点赞。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>认识LRU经典算法</title>
-    <link href="https://blog.ixin.run/posts/1614164385/"/>
-    <id>https://blog.ixin.run/posts/1614164385/</id>
-    <published>2021-02-24T10:59:45.000Z</published>
-    <updated>2021-03-31T16:22:55.160Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;LRU算法是不是听着很耳熟，当然面试经常问到。本文带你了解LRU算法相关经典的实现方式以及为什么采用，至少在面试的时候不至于一问三不知而栽跟头，接下来就看看LRU到底是个啥东西吧。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="算法" scheme="https://blog.ixin.run/categories/%E7%AE%97%E6%B3%95/"/>
-    
-    
-    <category term="算法" scheme="https://blog.ixin.run/tags/%E7%AE%97%E6%B3%95/"/>
-    
-    <category term="LRU" scheme="https://blog.ixin.run/tags/LRU/"/>
-    
-    <category term="双链表" scheme="https://blog.ixin.run/tags/%E5%8F%8C%E9%93%BE%E8%A1%A8/"/>
     
   </entry>
   
