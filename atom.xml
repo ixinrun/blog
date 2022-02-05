@@ -6,7 +6,7 @@
   <link href="https://blog.ixin.run/atom.xml" rel="self"/>
   
   <link href="https://blog.ixin.run/"/>
-  <updated>2021-12-28T14:26:07.606Z</updated>
+  <updated>2022-02-05T09:14:01.710Z</updated>
   <id>https://blog.ixin.run/</id>
   
   <author>
@@ -17,11 +17,115 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Flutter渲染机制</title>
+    <link href="https://blog.ixin.run/posts/1643029348/"/>
+    <id>https://blog.ixin.run/posts/1643029348/</id>
+    <published>2022-01-24T13:02:11.000Z</published>
+    <updated>2022-02-05T09:14:01.710Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;渲染机制似乎是所有前端框架开发者都要深入了解的知识。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Flutter" scheme="https://blog.ixin.run/categories/Flutter/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Flutter状态管理器</title>
+    <link href="https://blog.ixin.run/posts/1642727866/"/>
+    <id>https://blog.ixin.run/posts/1642727866/</id>
+    <published>2022-01-21T01:17:46.000Z</published>
+    <updated>2022-02-05T09:14:01.711Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Flutter是声明式编程模式，开发者就像堆积木一样来堆模型，只用关心每块积木展示的条件，不需要关心积木内部的功能实现细节。因此每一块积木都是一种状态，慢慢随着积木越来越多开发者必须要把这些状态（形态、关系）管理好，否则就会是一团麻了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Flutter" scheme="https://blog.ixin.run/categories/Flutter/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Flutter开发语言Dart学习</title>
+    <link href="https://blog.ixin.run/posts/1642687720/"/>
+    <id>https://blog.ixin.run/posts/1642687720/</id>
+    <published>2022-01-20T14:08:40.000Z</published>
+    <updated>2022-02-05T09:14:01.710Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;语言都是相通的。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Flutter" scheme="https://blog.ixin.run/categories/Flutter/"/>
+    
+    
+    <category term="高级语言" scheme="https://blog.ixin.run/tags/%E9%AB%98%E7%BA%A7%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flutter生命周期</title>
+    <link href="https://blog.ixin.run/posts/1642687671/"/>
+    <id>https://blog.ixin.run/posts/1642687671/</id>
+    <published>2022-01-20T14:07:51.000Z</published>
+    <updated>2022-02-05T09:14:01.712Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;提到生命周期太过熟悉，无论android、iOS还是flutter开发，都离不开围绕着生命周期转。生命周期顾名思义就是一个活动从开始创建到结束所经历的这个过程。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Flutter" scheme="https://blog.ixin.run/categories/Flutter/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Flutter开发必知必会</title>
+    <link href="https://blog.ixin.run/posts/1642607126/"/>
+    <id>https://blog.ixin.run/posts/1642607126/</id>
+    <published>2022-01-19T15:45:26.000Z</published>
+    <updated>2022-02-05T09:14:01.710Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;如果说Java是面向对象，那么Flutter就是面向组件，一切皆组件，那么多组件怎么学习呢，这里我就把高频使用的组件、方法、以及pub包整理一下，主要是能够快速上手和入门。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Flutter" scheme="https://blog.ixin.run/categories/Flutter/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Flutter环境搭建</title>
+    <link href="https://blog.ixin.run/posts/1642515162/"/>
+    <id>https://blog.ixin.run/posts/1642515162/</id>
+    <published>2022-01-18T14:12:00.000Z</published>
+    <updated>2022-02-05T09:14:01.712Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Flutter开发也有小半年了，一直也没有总结，今天发现最初的环境搭建还要各种搜，是时候来上一篇了，以下是在AndroidStudio中进行Flutter环境搭建过程。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Flutter" scheme="https://blog.ixin.run/categories/Flutter/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>DO AS ONE WISHES</title>
     <link href="https://blog.ixin.run/posts/0/"/>
     <id>https://blog.ixin.run/posts/0/</id>
-    <published>2098-12-31T16:00:00.000Z</published>
-    <updated>2021-12-28T14:26:07.606Z</updated>
+    <published>2021-12-31T16:00:00.000Z</published>
+    <updated>2022-01-10T14:45:52.900Z</updated>
     
     
       
@@ -45,7 +149,7 @@
     <link href="https://blog.ixin.run/posts/1631175663/"/>
     <id>https://blog.ixin.run/posts/1631175663/</id>
     <published>2021-09-09T08:20:27.000Z</published>
-    <updated>2021-12-28T14:26:07.607Z</updated>
+    <updated>2022-02-05T09:14:01.713Z</updated>
     
     
     <summary type="html">&lt;p&gt;Flutter自推出以来备受欢迎，国内最先引入使用的是闲鱼团队的闲鱼App。好多同学都知道Flutter是一套跨平台UI框架，最常见的运用则是一套代码同时可以编译出Android、iOS、H5等多种形式，但是实际开发中一般只有新项目我们才会用flutter进行直接编译打包，针对老项目谁都也不愿意完全推翻再用flutter重新写一遍，更多的是采用混合开发模式，即将flutter的产物嵌入到Android或者iOS项目中一同编译。本文我就总结一下Flutter混合开发的那些事。&lt;/p&gt;</summary>
@@ -55,16 +159,14 @@
     <category term="Flutter" scheme="https://blog.ixin.run/categories/Flutter/"/>
     
     
-    <category term="flutter" scheme="https://blog.ixin.run/tags/flutter/"/>
-    
   </entry>
   
   <entry>
-    <title>为什么用OkHttp</title>
+    <title>网络三件套（一）为什么用OkHttp</title>
     <link href="https://blog.ixin.run/posts/1629967595/"/>
     <id>https://blog.ixin.run/posts/1629967595/</id>
     <published>2021-08-26T08:44:38.000Z</published>
-    <updated>2021-12-28T14:26:07.606Z</updated>
+    <updated>2022-02-05T09:14:01.709Z</updated>
     
     
     <summary type="html">&lt;p&gt;提起Android上常用的网络框架，太多太多，从早前的HttpClient，到被Google认定的HttpUrlConnection，还有万剑齐发的Volley，但是伴隨后来的大Boss——OkHttp的出现，似乎前边的曾经不可一世的网络框架都沉寂了，为什么OkHttp这么牛，牛在哪里呢，本文就着重说一下。&lt;/p&gt;</summary>
@@ -121,7 +223,7 @@
     <link href="https://blog.ixin.run/posts/1618992460/"/>
     <id>https://blog.ixin.run/posts/1618992460/</id>
     <published>2021-04-21T08:06:46.000Z</published>
-    <updated>2021-12-28T14:26:07.607Z</updated>
+    <updated>2022-01-10T14:45:52.901Z</updated>
     
     
     <summary type="html">&lt;p&gt;其实组件化我之前已经谈过了，本文主要探讨一下组件化搭建的有哪些形式，这也算是一种学习过程。&lt;/p&gt;</summary>
@@ -287,137 +389,6 @@
     <category term="HTTP" scheme="https://blog.ixin.run/tags/HTTP/"/>
     
     <category term="HTTPS" scheme="https://blog.ixin.run/tags/HTTPS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Http协议原理知多少</title>
-    <link href="https://blog.ixin.run/posts/1615211970/"/>
-    <id>https://blog.ixin.run/posts/1615211970/</id>
-    <published>2021-03-08T13:59:05.000Z</published>
-    <updated>2021-03-31T16:22:55.162Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;推荐一本书《图解HTTP》，我看了有好几遍，尤其是书中的图片很形象。无论是前端、移动端抑或是大后端都离不开Http协议，所以弄清楚Http相关知识和原理着实重要，本文就挑重点式总结一下Http知识。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="计算机网络" scheme="https://blog.ixin.run/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
-    
-    
-    <category term="HTTP" scheme="https://blog.ixin.run/tags/HTTP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>你了解android的进程间通信吗</title>
-    <link href="https://blog.ixin.run/posts/1615119064/"/>
-    <id>https://blog.ixin.run/posts/1615119064/</id>
-    <published>2021-03-07T12:10:40.000Z</published>
-    <updated>2021-03-31T16:22:55.144Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;你了解android的进程间通信吗？提到进程间通信，这是android开发中很重要的一环，也是面试高频知识点，本文总结一下进程间通信的几种方式，把这块知识系统起来。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
-    
-    <category term="进程间通信" scheme="https://blog.ixin.run/tags/%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android开发数据持久化有哪些形式</title>
-    <link href="https://blog.ixin.run/posts/1615050026/"/>
-    <id>https://blog.ixin.run/posts/1615050026/</id>
-    <published>2021-03-06T17:00:12.000Z</published>
-    <updated>2021-03-31T16:22:55.134Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Android数据持久化的形式最常用的有以下五种：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;使用SharedPreferences存储数据&lt;/li&gt;
-&lt;li&gt;文件存储数据&lt;/li&gt;
-&lt;li&gt;SQLite数据库存储数据&lt;/li&gt;
-&lt;li&gt;使用ContentProvider存储数据&lt;/li&gt;
-&lt;li&gt;网络存储数据&lt;/li&gt;
-&lt;/ol&gt;</summary>
-    
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
-    
-    <category term="数据持久化" scheme="https://blog.ixin.run/tags/%E6%95%B0%E6%8D%AE%E6%8C%81%E4%B9%85%E5%8C%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android开发Style和Theme知识面总结</title>
-    <link href="https://blog.ixin.run/posts/1614958762/"/>
-    <id>https://blog.ixin.run/posts/1614958762/</id>
-    <published>2021-03-05T15:39:22.000Z</published>
-    <updated>2021-03-31T16:22:55.130Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;这块知识大部分同学都知道，但是同样比较碎，比如说定义一个Style，到底该用于主题还是用于某个view？再比如说Style的继承应该怎么用？等等…本文我将尽可能全面的将这块知识点总结一下。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
-    
-    <category term="自定义View" scheme="https://blog.ixin.run/tags/%E8%87%AA%E5%AE%9A%E4%B9%89View/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android开发之玩转Android属性动画</title>
-    <link href="https://blog.ixin.run/posts/1614527870/"/>
-    <id>https://blog.ixin.run/posts/1614527870/</id>
-    <published>2021-02-28T15:57:29.000Z</published>
-    <updated>2021-03-31T16:22:55.131Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;前两篇重点讲述了Android开发过程中补间动画和帧动画知识点，本篇文章我们重点总结一下属性动画的使用和原理。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
-    
-    <category term="动画" scheme="https://blog.ixin.run/tags/%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android开发之玩转Android帧动画</title>
-    <link href="https://blog.ixin.run/posts/1614486338/"/>
-    <id>https://blog.ixin.run/posts/1614486338/</id>
-    <published>2021-02-28T04:25:24.000Z</published>
-    <updated>2021-03-31T16:22:55.131Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;帧动画有着极其广泛的应用，也非常容易理解，其实就是简单的由N张静态图片收集起来，然后我们通过控制依次显示这些图片，因为人眼&amp;quot;视觉残留&amp;quot;的原因，会让我们造成动画的&amp;quot;错觉&amp;quot;，跟放电影的原理一样！Android中展示这种形式一般有两种方式，一种用AnimationDrawable实现，另外一种直接引用GIF实现。本文就给阐述一下如何通过AnimationDrawable实现帧动画。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/tags/Android/"/>
-    
-    <category term="动画" scheme="https://blog.ixin.run/tags/%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
