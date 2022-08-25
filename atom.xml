@@ -6,7 +6,7 @@
   <link href="https://blog.ixin.run/atom.xml" rel="self"/>
   
   <link href="https://blog.ixin.run/"/>
-  <updated>2022-02-05T09:14:01.710Z</updated>
+  <updated>2022-08-25T14:14:20.387Z</updated>
   <id>https://blog.ixin.run/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>浅谈Android和Flutter暗黑模式</title>
+    <link href="https://blog.ixin.run/posts/1644985990/"/>
+    <id>https://blog.ixin.run/posts/1644985990/</id>
+    <published>2022-02-16T04:33:10.000Z</published>
+    <updated>2022-08-25T14:14:20.387Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;暗黑模式是Android Q推出来的，也是一个主题切换思想，黑暗模式不仅可能减少耗电量，在光线暗的环境中对眼睛也有保护的作用。暗黑模式适配一般是围绕着三个方面来进行适配：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;文字颜色的适配&lt;/li&gt;
+&lt;li&gt;图片资源的适配&lt;/li&gt;
+&lt;li&gt;背景颜色的适配&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;以下就简单说一下Android和Flutter配置暗黑模式的形式。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Flutter渲染机制</title>
     <link href="https://blog.ixin.run/posts/1643029348/"/>
     <id>https://blog.ixin.run/posts/1643029348/</id>
     <published>2022-01-24T13:02:11.000Z</published>
-    <updated>2022-02-05T09:14:01.710Z</updated>
+    <updated>2022-08-25T14:14:20.388Z</updated>
     
     
     <summary type="html">&lt;p&gt;渲染机制似乎是所有前端框架开发者都要深入了解的知识。&lt;/p&gt;</summary>
@@ -108,10 +131,10 @@
     <link href="https://blog.ixin.run/posts/1642515162/"/>
     <id>https://blog.ixin.run/posts/1642515162/</id>
     <published>2022-01-18T14:12:00.000Z</published>
-    <updated>2022-02-05T09:14:01.712Z</updated>
+    <updated>2022-08-25T14:14:20.388Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Flutter开发也有小半年了，一直也没有总结，今天发现最初的环境搭建还要各种搜，是时候来上一篇了，以下是在AndroidStudio中进行Flutter环境搭建过程。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Flutter开发也有一段时间了，一直也没有总结，今天发现最初的环境搭建还要各种搜，是时候来上一篇了，以下是在AndroidStudio中进行Flutter环境搭建过程。&lt;/p&gt;</summary>
     
     
     
@@ -185,14 +208,14 @@
     <link href="https://blog.ixin.run/posts/1621934400/"/>
     <id>https://blog.ixin.run/posts/1621934400/</id>
     <published>2021-05-25T09:19:41.000Z</published>
-    <updated>2021-12-28T14:26:07.607Z</updated>
+    <updated>2022-08-25T14:14:20.389Z</updated>
     
     
     <summary type="html">&lt;p&gt;个人总结的一些算法，及解题思路。&lt;/p&gt;</summary>
     
     
     
-    <category term="算法" scheme="https://blog.ixin.run/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="数据结构与算法" scheme="https://blog.ixin.run/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
     
     
     <category term="算法" scheme="https://blog.ixin.run/tags/%E7%AE%97%E6%B3%95/"/>
@@ -257,11 +280,11 @@
   </entry>
   
   <entry>
-    <title>Java类加载机制</title>
+    <title>JVM（二）类加载机制</title>
     <link href="https://blog.ixin.run/posts/1616149094/"/>
     <id>https://blog.ixin.run/posts/1616149094/</id>
     <published>2021-03-19T10:18:14.000Z</published>
-    <updated>2021-03-31T16:22:55.154Z</updated>
+    <updated>2022-08-25T14:14:20.389Z</updated>
     
     
     <summary type="html">&lt;p&gt;我们知道Class文件中描述的各种信息最终都需要加载到虚拟机中之后才能运行和使用。而虚拟机如何加载这些Class文件？Class文件中的信息进入到虚拟机后会发生什么变化？本文就带你认识一下Java的类加载机制，相信你看过本文之后一切都清楚明了了。&lt;/p&gt;</summary>
@@ -368,27 +391,6 @@
     
     
     <category term="多渠道打包" scheme="https://blog.ixin.run/tags/%E5%A4%9A%E6%B8%A0%E9%81%93%E6%89%93%E5%8C%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HTTPS协议原理必知必会</title>
-    <link href="https://blog.ixin.run/posts/1615560323/"/>
-    <id>https://blog.ixin.run/posts/1615560323/</id>
-    <published>2021-03-12T14:45:07.000Z</published>
-    <updated>2021-03-31T16:22:55.162Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;前边的一篇文章&lt;a href=&quot;./posts/1615211970&quot;&gt;《HTTP协议原理知多少》&lt;/a&gt;我把有关Http的知识总结了一下，Http是一个无状态，透明的网络协议，然而在当下大网络环境下，安全这块是很重要的，所以Http也被无情的拍着沙滩上了，当然前人栽树后人乘凉，前人打地基后人盖大楼，一切都离不开基础，本篇文章我就总结一下在Http基础上添加了安全模块的Https的相关知识点，细看必有收获。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="计算机网络" scheme="https://blog.ixin.run/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
-    
-    
-    <category term="HTTP" scheme="https://blog.ixin.run/tags/HTTP/"/>
-    
-    <category term="HTTPS" scheme="https://blog.ixin.run/tags/HTTPS/"/>
     
   </entry>
   
