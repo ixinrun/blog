@@ -6,7 +6,7 @@
   <link href="https://blog.ixin.run/atom.xml" rel="self"/>
   
   <link href="https://blog.ixin.run/"/>
-  <updated>2022-08-25T14:14:20.387Z</updated>
+  <updated>2022-08-29T19:22:54.729Z</updated>
   <id>https://blog.ixin.run/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>快速走进鸿蒙</title>
+    <link href="https://blog.ixin.run/posts/1661694534/"/>
+    <id>https://blog.ixin.run/posts/1661694534/</id>
+    <published>2022-08-28T13:48:17.000Z</published>
+    <updated>2022-08-29T19:22:54.729Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;鸿蒙是什么&quot;&gt;鸿蒙是什么&lt;a title=&quot;#鸿蒙是什么&quot; href=&quot;#鸿蒙是什么&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;面向的场景&quot;&gt;面向的场景&lt;a title=&quot;#面向的场景&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="鸿蒙" scheme="https://blog.ixin.run/categories/%E9%B8%BF%E8%92%99/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>浅谈Android和Flutter暗黑模式</title>
@@ -372,25 +396,6 @@
     
     
     <category term="网络编程" scheme="https://blog.ixin.run/tags/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android多渠道打包</title>
-    <link href="https://blog.ixin.run/posts/1615692625/"/>
-    <id>https://blog.ixin.run/posts/1615692625/</id>
-    <published>2021-03-14T03:30:13.000Z</published>
-    <updated>2021-03-31T16:22:55.125Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Android的签名打包是每个android开发者都会的基本技能，但是针对多渠道打包需要当前app业务支撑，有些app是无需上线的到各个应用市场的，或者说公司不需要这些分发做定制化，这就导致可能接触不到多渠道打包，本文就记录一下Android上多渠道打包的那些事。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Android" scheme="https://blog.ixin.run/categories/Android/"/>
-    
-    
-    <category term="多渠道打包" scheme="https://blog.ixin.run/tags/%E5%A4%9A%E6%B8%A0%E9%81%93%E6%89%93%E5%8C%85/"/>
     
   </entry>
   
